@@ -178,5 +178,5 @@ const createGroup = async () => {
   }
 };
 
-export const APP_ID = 'toVJN9Eo';
-export const API_KEY = 'sk_test_oUZWYCQxnfQanFeAJRza3aI870ld1jUG';
+export const APP_ID = '';
+export const API_KEY = '';
